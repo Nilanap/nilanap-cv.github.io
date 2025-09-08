@@ -68,7 +68,7 @@ footer a:hover {
 
 /*********** Splash Page ************************/
 header {
-    background: linear-gradient(135deg, #A6E1FA 0%, #0E6BA8 100%);
+    background: #A6E1FA;
     padding: 3rem 2rem;
     text-align: center;
     color: #00072D;
